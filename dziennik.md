@@ -38,8 +38,8 @@ jeszcze nie *spec-anchored* i nie *spec-as-source*.
 
 ## 2026-11-12 — 4.5 Szablon Spec Kit obok `spec.md`
 
-Kopia szablonu leży w
-`specs/001-notatnik/reference/spec-template-spec-kit.md` — pobrana
+Kopia szablonu leży obok specyfikacji:
+`specs/001-notatnik/spec-template-spec-kit.md` — pobrana
 2026-11-12 z
 `https://raw.githubusercontent.com/github/spec-kit/main/templates/spec-template.md`,
 treść bez zmian, tylko nagłówek z adresem. Mój plik to

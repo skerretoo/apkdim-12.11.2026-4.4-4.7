@@ -19,8 +19,8 @@ za dwie lekcje.
 - `dziennik.md` — wpisy z zadań 4.4–4.7: odpowiedzi, decyzje i porównanie
   planów.
 - `specs/001-notatnik/plan.md` — plan budowy z dwóch plików (zadanie 4.6).
-- `specs/001-notatnik/reference/spec-template-spec-kit.md` — kopia
-  szablonu Spec Kit do porównania (zadanie 4.5).
+- `specs/001-notatnik/spec-template-spec-kit.md` — kopia szablonu Spec
+  Kit do porównania (zadanie 4.5), położona obok `spec.md`.
 
 ## Pięć zdań przepisanych na kryteria
 
@@ -168,7 +168,7 @@ a nie jednym zbudowanym trzy razy.
 - [x] Prompt z pokazu jest rozsortowany do czterech plików, z jednym
       zdaniem o brakującej specyfikacji i jej koszcie.
 
-## Commity
+## Commity specyfikacji
 
 1. `konstytucja, decyzja 0001 i pierwsza wersja specyfikacji 001`
 2. `spec 001-notatnik po przeglądzie: poprawki, przegląd i README`
