@@ -11,10 +11,15 @@ specyfikacja jest budowana dopiero za dwie lekcje.
 - `decyzje/0001-format-pliku-notatek.md` — format pliku `notatki.md`:
   kontekst, decyzja, odrzucone możliwości i skutki.
 - `specs/001-notatnik/spec.md` — specyfikacja w sześciu częściach: cel,
-  dla kogo, co robi, czego nie robi, kryteria akceptacji (K1–K15),
+  dla kogo, co robi, czego nie robi, kryteria akceptacji (K1–K16),
   do ustalenia.
 - `specs/001-notatnik/przeglad.md` — zapis dwóch niezależnych przeglądów
   specyfikacji i lista zmian wprowadzonych po pierwszym z nich.
+- `dziennik.md` — wpisy z zadań 4.4–4.7: odpowiedzi, decyzje i porównanie
+  planów.
+- `specs/001-notatnik/plan.md` — plan budowy z dwóch plików (zadanie 4.6).
+- `specs/001-notatnik/reference/spec-template-spec-kit.md` — kopia
+  szablonu Spec Kit do porównania (zadanie 4.5).
 
 ## Pięć zdań przepisanych na kryteria
 
@@ -153,8 +158,9 @@ a nie jednym zbudowanym trzy razy.
       sprawdzenia („Sprawdzenie:…”).
 - [x] W specyfikacji nie ma nazw plików z kodem, klas ani bibliotek.
       `notatki.md` to plik użytkownika, nie plik programu.
-- [x] Są dwa commity specyfikacji: pierwszy z wersją własną, drugi po
-      przeglądzie. Przegląd jest zapisany w `przeglad.md`.
+- [x] Są dwa commity specyfikacji z zadania 4.3: pierwszy z wersją
+      własną, drugi po przeglądzie. Przegląd jest zapisany w
+      `przeglad.md`; trzeci commit (K16) doszedł w zadaniu 4.5.
 - [x] Pięć zdań z listy jest przepisanych na kryteria; przy dwóch
       zapisano, jaka decyzja jest potrzebna, i przeniesiono ją do
       „Do ustalenia”.
@@ -165,3 +171,4 @@ a nie jednym zbudowanym trzy razy.
 
 1. `konstytucja, decyzja 0001 i pierwsza wersja specyfikacji 001`
 2. `spec 001-notatnik po przeglądzie: poprawki, przegląd i README`
+3. `4.5: K16 — mierzalne kryterium sukcesu po porównaniu z szablonem Spec Kit`

@@ -158,6 +158,11 @@ K15. Kiedy treść notatki zawiera linię zaczynającą się od `##`, ale
      Sprawdzenie: zapisać notatkę z taką linią i sprawdzić, czy program
      pokazuje ją jako treść, a nie jako osobną notatkę.
 
+K16. Kiedy zapiszę notatkę, to od kliknięcia „Zapisz” do pojawienia się
+     jej na górze listy mija mniej niż 2 sekundy.
+     Sprawdzenie: zmierzyć stoperem trzy zapisy pod rząd i wziąć
+     najdłuższy czas.
+
 ## Do ustalenia
 
 - [DO USTALENIA] Czy lista ma odświeżać się na bieżąco, kiedy
