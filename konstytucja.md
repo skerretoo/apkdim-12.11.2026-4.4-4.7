@@ -14,3 +14,5 @@
    nie może jej po cichu nadpisać ani utracić.
 7. Specyfikacja żadnej funkcji nie może zaprzeczyć tym punktom. Zmiana
    konstytucji wymaga osobnej, zapisanej decyzji.
+8. Program jest aplikacją okienkową na Windows, napisaną w C# na .NET
+   z interfejsem w Avalonii; nie jest programem konsolowym ani webowym.

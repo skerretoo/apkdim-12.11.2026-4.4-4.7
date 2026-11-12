@@ -9,8 +9,9 @@ i przy kilkunastu notatkach.
 Decyzja: jeden plik `notatki.md` w folderze programu. Każda notatka to
 nagłówek `## RRRR-MM-DD GG:MM — Tytuł`, a pod nim treść, która może mieć
 kilka linii. Wpisy oddziela jedna pusta linia. Najnowsza notatka jest na
-górze pliku. Plik jest zapisywany w UTF-8. Tytuł może zawierać myślniki;
-granicą nagłówka jest pierwsze ` — ` występujące po godzinie.
+górze pliku, a przy dwóch notatkach z tej samej minuty nowsza jest wyżej.
+Plik jest zapisywany w UTF-8. Tytuł może zawierać myślniki; granicą
+nagłówka jest pierwsze ` — ` występujące po godzinie.
 
 Odrzucone: JSON — czytelny dla programu, nie dla człowieka w edytorze;
 osobny plik na notatkę — folder zamienia się w nieporządek i trudno
