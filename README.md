@@ -1,8 +1,9 @@
-# notatnik-v2 — zadanie 4.3
+# notatnik-v2 — zadania 4.3–4.7
 
-Repozytorium zawiera konstytucję i pierwszą decyzję z zadania 4.2 oraz
-specyfikację notatnika z zadania 4.3. Kodu jeszcze nie ma: zgodnie z lekcją
-specyfikacja jest budowana dopiero za dwie lekcje.
+Repozytorium zawiera konstytucję i pierwszą decyzję z zadania 4.2,
+specyfikację notatnika z zadania 4.3 oraz dziennik i plan z zadań 4.4–4.7.
+Kodu jeszcze nie ma: zgodnie z lekcją specyfikacja jest budowana dopiero
+za dwie lekcje.
 
 ## Co jest w repozytorium
 

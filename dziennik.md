@@ -174,10 +174,6 @@ z 4.6 ich nie przemilcza. Przed lekcją 4e trzeba odpowiedzieć na oba
 
 ## 2026-11-12 — 4.7 Poziom drugi
 
-Część „Definition” artykułu Böckeler mówi, że *spec-anchored* to
-specyfikacja zachowana po skończeniu zadania i używana dalej do rozwoju
-i utrzymania funkcji. Jedno zdanie o notatniku:
-
 **Żeby notatnik był *spec-anchored*, a nie tylko *spec-first*, każda
 późniejsza zmiana musiałaby zaczynać się od poprawienia `spec.md`
 i kończyć jego aktualizacją, a konstytucja musiałaby wymagać, że

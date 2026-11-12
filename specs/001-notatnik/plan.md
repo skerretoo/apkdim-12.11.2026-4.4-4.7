@@ -47,16 +47,16 @@ wstrzymane są na końcu.
 
 1. Szablon `dotnet new avalonia.app` i pierwszy commit projektu.
 2. `Note.cs` oraz odczyt w `NoteFile.cs` — plik z wpisami wczytuje się do
-   listy, także wpis wielolinijkowy i linia `##` w treści; komunikat przy
-   nieczytelnym pliku (K4, K6, K7, K10, K11, K12, K15 — strona odczytu).
+   listy, także wpis wielolinijkowy i linia `##` w treści; wykrycie
+   nieczytelnego pliku (K4, K6, K7, K10, K11, K12, K15 — strona odczytu).
 3. Zapis w `NoteFile.cs` — nowy wpis na początek, UTF-8, plik tymczasowy
    i podmiana, zachowanie nieznanych fragmentów (K1, K2, K3, K6, K10,
    K12, K14, K15 — strona zapisu).
 4. `MainWindow.axaml` — układ, lista i podgląd; przycisk nieaktywny przy
    pustym tytule albo tytule z białych znaków (K5, K7).
 5. Połączenie okna z plikiem: zapis z przycisku, odświeżenie listy bez
-   restartu, komunikat przy nieudanym zapisie (K1, K2, K4, K8, K9, K11,
-   K16).
+   restartu, komunikat przy nieudanym zapisie i przy nieczytelnym pliku
+   (K1, K2, K4, K8, K9, K11, K16).
 6. Podgląd treści po kliknięciu na liście (K7).
 7. Przejście przez K1–K16 na gotowym programie i wpis w `dziennik.md`.
 
